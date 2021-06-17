@@ -16,4 +16,4 @@ export default ({ data }) => (
       <p>{data.shortBio.shortBio}</p>
     </div>
   </div>
-)
+ )
